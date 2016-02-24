@@ -1,0 +1,10 @@
+{
+  "name": "jcotton1123-rest_api_resource",
+  "version": "1.0.0",
+  "author": "Jesse Cotton",
+  "license": "Apache-2.0",
+  "summary": "A module for performing configurations via a REST API.",
+  "source": "https://github.com/JCotton1123/puppet-rest_api_resource",
+  "operatingsystem_support": [],
+  "dependencies": []
+}
